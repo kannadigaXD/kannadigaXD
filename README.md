@@ -16,13 +16,13 @@ Let me introduce you about myself, my name is Zaid(Not Real); 17y.o from NCR(Del
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kannadigaXD&repo=SpamBot&cache_seconds=86400&theme=gotham">
 </a>
 
-<a href="https://github.com/kannadigaXd/banall">
+<a href="https://github.com/kannadigaXD/banall">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kannadigaXD&repo=banall&cache_seconds=86400&theme=gotham">
 </a>
 
 
 <a href="https://github.com/kannadigaXD/Chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kannadigaXD&repo=kannadigabot&cache_seconds=86400&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kannadigaXD&repo=Chatbot&cache_seconds=86400&theme=gotham">
 </a>
 
 <a href="https://github.com/kannadigaXD/AV-BOT">
