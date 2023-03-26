@@ -26,7 +26,7 @@ Let me introduce you about myself, my name is Zaid(Not Real); 17y.o from NCR(Del
 </a>
 
 <a href="https://github.com/kannadigaXD/AV-BOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-Zaid&repo=Music&cache_seconds=86400&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-Zaid&repo=AV-BOT&cache_seconds=86400&theme=gotham">
 </a>
 
 
