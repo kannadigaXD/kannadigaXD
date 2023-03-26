@@ -3,7 +3,7 @@
 <p align='Middle'><a href='https://t.me/kannadigaxd'><img src='https://te.legra.ph/file/f6175f3c73246b939c8ac.jpg' width='750"'></a></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F38777&width=490&lines=ಕರ್ನಾಟಕದ+ಮೊಟ್ಟ+ಮೊದಲ+ಟೆಲಿಗ್ರಾಂ+ರೋಬೋಟ್+ಮೇಕರ್+ +%E2%9C%8C">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F38777&width=490&lines=ಕರ್ನಾಟಕದ+ಮೊಟ್ಟ+ಮೊದಲ+ಟೆಲಿಗ್ರಾಂ+ರೋಬೋಟ್+ಮೇಕರ್%E2%9C%8C">
 </p> 
 
 <p align="center">
