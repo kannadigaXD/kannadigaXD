@@ -1,6 +1,6 @@
 ## Hello There :wave:, Welcome to my GitHub profile.
 
-Let me introduce you about myself, my name is Zaid(Not Real); 17y.o from NCR(Delhi), India.
+Let me introduce you about myself, my name is kannadigaXD(Not Real); 17y.o from NCR(Delhi), India.
 
 
 
