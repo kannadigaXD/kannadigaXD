@@ -1,6 +1,6 @@
 ## Hello There :wave:, Welcome to my GitHub profile.
 
-<p align='Middle'><a href='https://t.me/kannadigaxd'><img src='(https://te.legra.ph/file/6c14ed70a84ea325d82c1.jpg' width='750"'></a></p>
+<p align='Middle'><a href='https://t.me/kannadigaxd'><img src='https://te.legra.ph/file/6c14ed70a84ea325d82c1.jpg' width='750"'></a></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F38777&width=490&lines=𝗣𝗘𝗥𝗦𝗢𝗡𝗔𝗟+𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡%E2%9C%8C">
