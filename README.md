@@ -25,8 +25,8 @@ Let me introduce you about myself, my name is Zaid(Not Real); 17y.o from NCR(Del
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=kannadigaXD&repo=Chatbot&cache_seconds=86400&theme=gotham">
 </a>
 
-<a href="https://github.com/kannadigaXD/AV-BOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kannadigaXD&repo=AV-BOT&cache_seconds=86400&theme=gotham">
+<a href="https://github.com/kannadigaXD/AVBOT">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kannadigaXD&repo=AVBOT&cache_seconds=86400&theme=gotham">
 </a>
 
 
