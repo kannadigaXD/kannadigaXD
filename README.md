@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F38777&width=490&lines=𝗣𝗘𝗥𝗦𝗢𝗡𝗔𝗟+𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡%E2%9C%8C">
 </p> 
 
-<p align='Middle'><a href='https://t.me/kannadigaXD'><img src='(https://telegra.ph/file/f6175f3c73246b939c8ac.jpg)' width='30"'></a></p>
+<p align='Middle'><a href='https://t.me/kannadigaXD'><img src='(https://telegra.ph/file/f6175f3c73246b939c8ac.jpg)' width='200"'></a></p>
 
 
 
