@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F38777&width=490&lines=𝗣𝗘𝗥𝗦𝗢𝗡𝗔𝗟+𝗜𝗡𝗙𝗢𝗥𝗠𝗔𝗧𝗜𝗢𝗡%E2%9C%8C">
 </p> 
 
-<p align='Middle'><a href='https://t.me/kannadigaXD'><img src=(https://telegra.ph/file/f6175f3c73246b939c8ac.jpg) width='100"'></a></p>
-
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F555247&width=890&lines=𝗞𝗔𝗡𝗡𝗔𝗗𝗜𝗚𝗔 𝗫𝗗+𝗧𝗛𝗘+𝗙𝗜𝗥𝗦𝗧+𝗕𝗢𝗧+𝗖𝗥𝗘𝗔𝗧𝗢𝗥+𝗔𝗡𝗗+𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥+𝗙𝗥𝗢𝗠+𝗞𝗔𝗥𝗡𝗔𝗧𝗔𝗞𝗔%E2%9C%8C">
 </p> 
