@@ -34,4 +34,4 @@ Let me introduce you about myself, my name is kannadigaXD(Not Real); 17y.o from 
 
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=kannadigaXD&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/kannadigaXD)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=kannadigaXD)
+![](https://visitor-badge.laobi.icu/badge?page_id=MR-AGORA)
