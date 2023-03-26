@@ -34,11 +34,6 @@
 
 <h1> <img src="https://github.com/AnonymousR1025/AnonymousR1025/blob/master/resources/connect.gif" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍʀ ᴀɢᴏʀᴀ </h1>
 
-[<img src="https://github.com/AnonymousR1025/AnonymousR1025/blob/master/resources/telegram_icon.png" width="60px">](https://t.me/kannadigaxd) [<img src="https://github.com/AnonymousR1025/AnonymousR1025/blob/master/resources/github_icon.png" width="60px">](https://github.com/kannadigaXD) [<img src="https://github.com/AnonymousR1025/AnonymousR1025/blob/master/resources/discord_logo.png" width="60px">]([https://www.instagram.com/agora_swamy/) [<img src="https://github.com/AnonymousR1025/AnonymousR1025/blob/master/resources/youtube_icon.png" width="60px">](https://youtube.com/channel/UC-4mVE6HjhtYygaf2l5DHvA)
-
-[<img src="https://github.com/AnonymousR1025/AnonymousR1025/blob/master/resources/hr.gif"/>](https://github.com/AnonymousR1025)
-<h1> <img src="https://github.com/kannadigaXD/kannadigaXD/blob/master/resources/songs.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
-
 [<img src="https://novatorem.visualbean.vercel.app/api/spotify" alt="KANNADIGA XD's Spotify" width="75%" />](https://open.spotify.com/user/d28p2msbxwzil9byvx5sql00z)
 
 
