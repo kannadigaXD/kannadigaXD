@@ -26,7 +26,7 @@ Let me introduce you about myself, my name is Zaid(Not Real); 17y.o from NCR(Del
 </a>
 
 <a href="https://github.com/kannadigaXD/AV-BOT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itz-Zaid&repo=AV-BOT&cache_seconds=86400&theme=gotham">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kannadigaXD&repo=AV-BOT&cache_seconds=86400&theme=gotham">
 </a>
 
 
@@ -39,6 +39,6 @@ Let me introduce you about myself, my name is Zaid(Not Real); 17y.o from NCR(Del
 ## My Stats
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=kannadigaXD&show_icons=true&theme=radical)
 
-[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=kannadigaXD&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/ITZ-ZAID)
+[![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=kannadigaXD&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/kannadigaXD)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=kannadigaXD)
