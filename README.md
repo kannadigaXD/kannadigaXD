@@ -1,4 +1,4 @@
-## <p align="center"> ನನ್ನ ಗಿಟ್ಹಬ್ ಗೆ ನಿಮಗೆ ಹೃತ್ಪೂರ್ವಕ ಸ್ವಾಗತ ></a></p> 
+## <p align="center"> ನನ್ನ ಗಿಟ್ಹಬ್ ಗೆ ನಿಮಗೆ ಹೃತ್ಪೂರ್ವಕ ಸ್ವಾಗತ </a></p> 
 
 <p align='Middle'><a href='https://t.me/kannadigaxd'><img src='https://te.legra.ph/file/f6175f3c73246b939c8ac.jpg' width='750"'></a></p>
 
